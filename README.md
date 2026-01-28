@@ -44,9 +44,10 @@ BCI_Error_Detection/
 🚀 Getting Started
 1. Prerequisites
 Install the required dependencies:
-pip install -r requirements.txt
 
-2. Dataset Setup
+   pip install -r requirements.txt
+
+3. Dataset Setup
 This project uses the INRIA BCI Challenge dataset.
 
  1. Download the data from Kaggle.
