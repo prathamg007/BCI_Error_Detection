@@ -1,0 +1,6 @@
+# Ignore Data
+data/
+__pycache__/
+*.csv
+.DS_Store
+.ipynb_checkpoints/
